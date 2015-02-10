@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <mapping class="com.itsmycollege.model.Tblfeesstructures" />
+        <mapping class="com.itsmycollege.model.Tblshares" />
+        <mapping class="com.itsmycollege.model.Tblexaminationcycles" />
+        <mapping class="com.itsmycollege.model.Tblmessagelables" />
+        <mapping class="com.itsmycollege.model.Tblexperience" />
+        <mapping class="com.itsmycollege.model.Tblcontacts" />
+        <mapping class="com.itsmycollege.model.Tblmessages" />
+        <mapping class="com.itsmycollege.model.Tblprojectmembers" />
+        <mapping class="com.itsmycollege.model.Tblvideos" />
+        <mapping class="com.itsmycollege.model.Tblreviews" />
+        <mapping class="com.itsmycollege.model.Tblareaofinterests" />
+        <mapping class="com.itsmycollege.model.Tblstates" />
+        <mapping class="com.itsmycollege.model.Permisions" />
+        <mapping class="com.itsmycollege.model.Tblclasses" />
+        <mapping class="com.itsmycollege.model.Tblpolloptions" />
+        <mapping class="com.itsmycollege.model.ImcentityPermissions" />
+        <mapping class="com.itsmycollege.model.Tblcourses" />
+        <mapping class="com.itsmycollege.model.Tblcollegefacilities" />
+        <mapping class="com.itsmycollege.model.UserRoles" />
+        <mapping class="com.itsmycollege.model.Tblevents" />
+        <mapping class="com.itsmycollege.model.Tblpostedreceivers" />
+        <mapping class="com.itsmycollege.model.Tblfacultysubjects" />
+        <mapping class="com.itsmycollege.model.Tblcollegerecruiters" />
+        <mapping class="com.itsmycollege.model.Tblfacultyclasses" />
+        <mapping class="com.itsmycollege.model.Tblcolleges" />
+        <mapping class="com.itsmycollege.model.Tblcoursedepartments" />
+        <mapping class="com.itsmycollege.model.Tblphotogalleries" />
+        <mapping class="com.itsmycollege.model.Tblphotos" />
+        <mapping class="com.itsmycollege.model.Tblfacilities" />
+        <mapping class="com.itsmycollege.model.Tblrecomendations" />
+        <mapping class="com.itsmycollege.model.Imcentitycredentials" />
+        <mapping class="com.itsmycollege.model.Tblposts" />
+        <mapping class="com.itsmycollege.model.Tbldepartments" />
+        <mapping class="com.itsmycollege.model.Tblreceivedmessages" />
+        <mapping class="com.itsmycollege.model.Tblpublications" />
+        <mapping class="com.itsmycollege.model.Imcentitytypes" />
+        <mapping class="com.itsmycollege.model.Tblstudents" />
+        <mapping class="com.itsmycollege.model.Tblcollegecontacts" />
+        <mapping class="com.itsmycollege.model.Tblawards" />
+        <mapping class="com.itsmycollege.model.Tblcountries" />
+        <mapping class="com.itsmycollege.model.Tbleducation" />
+        <mapping class="com.itsmycollege.model.Tblsharereceivers" />
+        <mapping class="com.itsmycollege.model.Tblpolls" />
+        <mapping class="com.itsmycollege.model.Tblcoursetypes" />
+        <mapping class="com.itsmycollege.model.Tblreplies" />
+        <mapping class="com.itsmycollege.model.Tblprojects" />
+        <mapping class="com.itsmycollege.model.Tblcollegeaccreditations" />
+        <mapping class="com.itsmycollege.model.Tbllikes" />
+        <mapping class="com.itsmycollege.model.Tblsubjects" />
+        <mapping class="com.itsmycollege.model.Tblcities" />
+        <mapping class="com.itsmycollege.model.Tblaccreditations" />
+        <mapping class="com.itsmycollege.model.Imcentities" />
+        <mapping class="com.itsmycollege.model.Tblinternships" />
+        <mapping class="com.itsmycollege.model.Tblfaculties" />
+        <mapping class="com.itsmycollege.model.Tblclasssubjects" />
+        <mapping class="com.itsmycollege.model.Tblrecruiters" />
+    </session-factory>
+</hibernate-configuration>
